@@ -1,0 +1,27 @@
+* Copyright term 10 years
+* Entrench no retroactive extensions
+* Creators have 1 year to register copyright or the work enters the public
+domain
+** The government MUST create an archive containing a copy of all registered
+works
+* Private noncommercial uses of creativity shall not be considered an
+infringement
+** A noncommercial use is any use that results in no direct compensation to the
+user
+** A private use is any use that only involves a small number of people
+** Such uses include: private study, backups, time and format shifting
+* Commercial uses or public noncommercial uses MAY be considered non-infringing
+if they are:
+** Transformative or add substantial value to the original
+** Non-substantial in relation to the original work
+** Not harmful to the market for the original work
+** Such uses include most: parody, research, reporting, reviewing, background
+music at a noncommercial event
+** The government MAY create collection policies to collect some fixed amount
+per use from the user for use in compensating the original creator
+*** Such collection policies MUST be such that a private citizen making a small
+commercial use of the work could afford it
+* Publicly funded materials MUST be in the public domain
+* Creators MAY dedicate their work explicitly to the public domain
+* Service providers (such as ISPs, web hosts, and search engines) shall not be
+liable for infringement by their users
