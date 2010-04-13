@@ -1,55 +1,90 @@
 = Copyright Act Draft Proposal =
 
+== Berne Convention and WTO ==
+
+This proposal is not compatible with the Berne convention and thus anyone
+implementing it could not (today) join the WTO.  This is known.  We should not
+allow the broken treaties of the past to shape the way we see the future.
+
+== Sole Rights ==
+
+The creator shall, under copyright, have the sole right to:
+* Produce, reproduce, perform, publish, or communicate (by telecommunication or
+otherwise) the work or substantial portions thereof
+* Produce derivative works (such as translations, dramatic interpretations,
+novelizations, reuse of substantial character or plot content)
+* Produce derivatives in alternate mediums (eBooks, audio books)
+* Be associated with the work as the creator by name, pseudonym, or other
+identifier(s) chosen by the creator
+and to authorize such acts.
+
+Additionally, the fixed form resulting from the fixation of any work (such as a
+performer's performance) is the sole creative property of the creator of the
+work (such as the performer).
+
+The creator MAY dedicate the work to the public domain, thus waiving all of his
+sole rights.
+
+These rights are not assignable or transferable and are always the property of
+the original creator or his heirs.
+
+== Infringement ==
+
+It is an infringement of copyright to do with a work, or to posses or import a
+work, or any derivative or substantial part thereof, for the purpose of doing,
+without authorization from the creator, any of those things outlined as a Sole
+Right of the creator unless they are covered by one or more of the exceptions
+listed below.
+
+Service providers (such as ISPs, web hosts, Kinko's, and search engines) shall
+not be liable for infringement by their users.
+
 == Term and Registration ==
 
-* Copyright term 10 years from original date of fixation
-* Entrench no retroactive changes to the term length  (extensions or reductions)
-* Creators have 1 year to register copyright or the work enters the public
+* The term of copyright lasts 10 years from original date of fixation
+* There MUST NOT ever be any retroactive extensions or reduction of the term of
+copyright
+* Creators have 30 days to register copyright or the work enters the public
 domain
-** Registrations MUST be gratis to the creator
+** Registration MUST be gratis to the creator
 ** The government MUST create an archive containing a copy of all registered
 works
 *** For works which cannot be copied directly (such as painting and sculptures)
 a reasonable representation (such as a photograph) shall be sent to the
 registry for inclusion in the archive
-** Archive copies of works that are derivative of other works in the archive
+** Archival copies of works that are derivative of other works in the archive
 MUST reference the archive entry for the original work
 ** The archive MUST NOT make available content that is not in the public domain
-without the creator's permission but MUST make date of fixation, author's name
+without the creator's permission but MUST make date of fixation, author's name,
 and other useful metadata (such as title) available
 
-== Copyrightability ==
+== Copyright Subsistence ==
 
-* Only the fixed form of an original, artistic work may be copyrighted
-* Facts, ideas and compilations thereof are not copyrightable
+Copyright subsists in only the fixed form of an original, artistic work. 
+Facts, ideas, and compilations thereof are not artistic works.  Examples of
+artistic works include songs, stories, computer software, hardware schematics,
+and building blueprints.
 
 == Exceptions ==
 
-* Private noncommercial uses of creativity shall not be considered an
-infringement
-** A noncommercial use is any use that results in no direct compensation to the
-user
-** A private use is any use that will only ever involve a small number of
-people // FIXME: chain reactions mean this could still end up involving tons of
-people really fast.  How to clairify?  Could explicitly say "and the user has
-no reason to believe that the others involved in the use will use it in such a
-way that the use eventually involves enough people to be considered non-private"
-** Such uses include: private study, backups, time and format shifting
-* Commercial uses or public noncommercial uses MAY be considered non-infringing
+Copyright does not subsist in any publicly funded work.
+
+Private noncommercial uses of creativity MUST NOT be considered an
+infringement.  A noncommercial use is any use undertaken with no motive of gain
+and that results in no direct compensation to the user (other than compensation
+that covers only the costs of the use to the user).  Examples of private
+noncommercial uses include: private study, backups, time and format shifting.
+
+Commercial uses or public noncommercial uses MAY be considered non-infringing
 if they are:
-** Transformative or add substantial value to the original
-** Non-substantial in relation to the original work
-** Not substantially harmful to the market for the original work
-** Such uses include most: parody, research, reporting, reviewing, classroom
-use, background music at a noncommercial event
-** The government MAY create collection policies to collect some fixed amount
-per use from the user for use in compensating the original creator
-*** Such collection policies MUST be such that a private citizen making a small
-commercial use of the work could afford it
+* Transformative or add substantial value to the original
+* Non-substantial in relation to the original work
+* Not substantially harmful to the market for the original work
 
-== Etc ==
+Such uses include most: parody, research, reporting, reviewing, classroom use,
+background music at noncommercial events.
 
-* Publicly funded materials MUST be in the public domain
-* Creators MAY dedicate their work explicitly to the public domain
-* Service providers (such as ISPs, web hosts, and search engines) shall not be
-liable for infringement by their users
+The government MAY create compulsory license policies to collect some fixed
+amount or fixed amount per use from the user for use in compensating the
+original creator.  Such policies MUST be such that a private citizen making a
+small commercial use of the work could afford it.
