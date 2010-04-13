@@ -6,20 +6,22 @@ This proposal is not compatible with the Berne convention and thus anyone
 implementing it could not (today) join the WTO.  This is known.  We should not
 allow the broken treaties of the past to shape the way we see the future.
 
-== Sole Rights ==
+== Moral Rights ==
 
-The creator shall, under copyright, have the sole right to:
+* Be associated with the work as the creator by name, pseudonym, or other
+identifier(s) chosen by the creator
+
+== Compensation ==
+
+The creator shall have the right to compensation from uses of his work that:
 * Produce, reproduce, perform, publish, or communicate (by telecommunication or
 otherwise) the work or substantial portions thereof
 * Produce derivative works (such as translations, dramatic interpretations,
 novelizations, reuse of substantial character or plot content)
 * Produce derivatives in alternate mediums (eBooks, audio books)
-* Be associated with the work as the creator by name, pseudonym, or other
-identifier(s) chosen by the creator
-and to authorize such acts.
 
 Additionally, the fixed form resulting from the fixation of any work (such as a
-performer's performance) is the sole creative property of the creator of the
+performer's performance) is considered a work of the creator of the original
 work (such as the performer).
 
 The creator MAY dedicate the work to the public domain, thus waiving all of his
@@ -28,13 +30,19 @@ sole rights.
 These rights are not assignable or transferable and are always the property of
 the original creator or his heirs.
 
+The government MAY create compulsory license policies to collect some fixed
+amount or fixed amount per use from the user for use in compensating the
+original creator.  Such policies MUST be such that a private citizen making a
+small commercial use of the work could afford it.  If such a policy does not
+exist, then the user and creator must negotiate compensation.
+
 == Infringement ==
 
 It is an infringement of copyright to do with a work, or to posses or import a
 work, or any derivative or substantial part thereof, for the purpose of doing,
-without authorization from the creator, any of those things outlined as a Sole
-Right of the creator unless they are covered by one or more of the exceptions
-listed below.
+without compensating the creator in a manner consistent with this act, any of
+those things outlined as a use the creator has a right to compensation for
+unless they are covered by one or more of the exceptions listed below.
 
 Service providers (such as ISPs, web hosts, Kinko's, and search engines) shall
 not be liable for infringement by their users.
@@ -83,8 +91,3 @@ if they are:
 
 Such uses include most: parody, research, reporting, reviewing, classroom use,
 background music at noncommercial events.
-
-The government MAY create compulsory license policies to collect some fixed
-amount or fixed amount per use from the user for use in compensating the
-original creator.  Such policies MUST be such that a private citizen making a
-small commercial use of the work could afford it.
