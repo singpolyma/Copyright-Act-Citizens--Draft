@@ -36,6 +36,9 @@ without authorization from the creator, any of those things outlined as a Sole
 Right of the creator unless they are covered by one or more of the exceptions
 listed below.
 
+An infringement of copyright MUST be considered a criminal offence, and
+prosecuted by the state.
+
 Service providers (such as ISPs, web hosts, Kinko's, and search engines) shall
 not be liable for infringement by their users.
 
