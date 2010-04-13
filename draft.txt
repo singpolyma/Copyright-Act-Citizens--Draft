@@ -1,26 +1,54 @@
-* Copyright term 10 years
-* Entrench no retroactive extensions
+= Copyright Act Draft Proposal =
+
+== Term and Registration ==
+
+* Copyright term 10 years from original date of fixation
+* Entrench no retroactive changes to the term length  (extensions or reductions)
 * Creators have 1 year to register copyright or the work enters the public
 domain
+** Registrations MUST be gratis to the creator
 ** The government MUST create an archive containing a copy of all registered
 works
+*** For works which cannot be copied directly (such as painting and sculptures)
+a reasonable representation (such as a photograph) shall be sent to the
+registry for inclusion in the archive
+** Archive copies of works that are derivative of other works in the archive
+MUST reference the archive entry for the original work
+** The archive MUST NOT make available content that is not in the public domain
+without the creator's permission but MUST make date of fixation, author's name
+and other useful metadata (such as title) available
+
+== Copyrightability ==
+
+* Only the fixed form of an original, artistic work may be copyrighted
+* Facts, ideas and compilations thereof are not copyrightable
+
+== Exceptions ==
+
 * Private noncommercial uses of creativity shall not be considered an
 infringement
 ** A noncommercial use is any use that results in no direct compensation to the
 user
-** A private use is any use that only involves a small number of people
+** A private use is any use that will only ever involve a small number of
+people // FIXME: chain reactions mean this could still end up involving tons of
+people really fast.  How to clairify?  Could explicitly say "and the user has
+no reason to believe that the others involved in the use will use it in such a
+way that the use eventually involves enough people to be considered non-private"
 ** Such uses include: private study, backups, time and format shifting
 * Commercial uses or public noncommercial uses MAY be considered non-infringing
 if they are:
 ** Transformative or add substantial value to the original
 ** Non-substantial in relation to the original work
-** Not harmful to the market for the original work
-** Such uses include most: parody, research, reporting, reviewing, background
-music at a noncommercial event
+** Not substantially harmful to the market for the original work
+** Such uses include most: parody, research, reporting, reviewing, classroom
+use, background music at a noncommercial event
 ** The government MAY create collection policies to collect some fixed amount
 per use from the user for use in compensating the original creator
 *** Such collection policies MUST be such that a private citizen making a small
 commercial use of the work could afford it
+
+== Etc ==
+
 * Publicly funded materials MUST be in the public domain
 * Creators MAY dedicate their work explicitly to the public domain
 * Service providers (such as ISPs, web hosts, and search engines) shall not be
